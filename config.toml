@@ -1,11 +1,11 @@
 relativeURLs = true
-title = "Gautam Rao"
+title = "Ertian Chen (陈尔天)"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Business and Economics, University of California, Berkeley"
-    logo = "Rao_headshot_berkeley.jpg" 
-    
+    shortbio = "Ph.D. candidate in Economics <br> University College London"
+    email = "Email: ertian.chen.19@ucl.ac.uk"
+    logo = "Ertian_Chen.jpeg"
