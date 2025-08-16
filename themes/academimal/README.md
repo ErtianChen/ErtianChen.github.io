@@ -12,8 +12,13 @@ It is based on the awesome [Jekyll](https://jekyllrb.com) theme
 - Email
 - PGP pubkey
 - External links
+
+Note that this theme is a WIP. I plan to add the following features as the
+need comes:
+
 - Publication
-- Analytics using goatcounter.com
+- Projects
+- i18n
 
 ## Demo / Example
 
