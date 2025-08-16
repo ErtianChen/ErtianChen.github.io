@@ -1,4 +1,5 @@
-relativeURLs = true
+baseurl = "https://ertianchen.github.io/"
+relativeURLs = false  # Change to false
 title = "Ertian Chen (陈尔天)"
 theme = "academimal"
 sectionPagesMenu = "main"
