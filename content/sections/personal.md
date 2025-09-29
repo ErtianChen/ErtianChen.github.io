@@ -1,1 +1,1 @@
-**Website:** This website is adapted from Gautam Rao’s website.
+This website is adapted from Gautam Rao’s website.

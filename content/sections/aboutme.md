@@ -2,6 +2,8 @@ Welcome! I am a Ph.D. candidate in the Department of Economics at University Col
 
 I work on structural econometrics, empirical industrial organization, and computational economics.
 
-__[Curriculum Vitae](pdf/CV_Ertian_Chen.pdf)__ (Updated August 2025)
+I will be on the 2025-26 job market.
+
+__[Curriculum Vitae](pdf/CV_Ertian_Chen.pdf)__ (updated September 2025)
 
 <!-- __[Research Statement](/pdf/Rao Research Statement.pdf")__  -->
