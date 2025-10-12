@@ -4,6 +4,6 @@ I work on structural econometrics, empirical industrial organization, and comput
 
 I will be on the 2025-26 job market.
 
-__[Curriculum Vitae](pdf/CV_Ertian_Chen.pdf)__ (updated September 2025)
+__[Curriculum Vitae](pdf/CV_Ertian_Chen.pdf)__ (updated October 2025)
 
 <!-- __[Research Statement](/pdf/Rao Research Statement.pdf")__  -->
