@@ -2,22 +2,13 @@ works:
 
 - title: "Distributionally Robust Dynamic Structural Estimation: Serial Dependence and Sensitivity Analysis"
   pdflink: "https://ertianchen.github.io/pdf/Distributional_Robustness.pdf"
-  # book: "Revised and Resubmitted, Econometrica"
   note: "Job Market Paper"
-  # links:
-  #   - url: "https://arxiv.org/abs/2501.18746"
-      # text: "Pre-Registration"
   abstract: >
-      Distributional assumptions that discipline serially correlated latent variables play a central role in dynamic structural models. We propose a framework to quantify the sensitivity of scalar parameters of interest (e.g., welfare, elasticity) to such distributional assumptions. We derive bounds on the scalar parameter by perturbing a reference distribution, while imposing a stationarity condition for time-homogeneous models or a Markovian condition for time-inhomogeneous models. The bounds are the solutions to optimization problems, for which we derive a computationally tractable dual formulation. We establish consistency, convergence rate, and asymptotic distribution for the estimator of the bounds. We demonstrate the approach with two applications: an infinite-horizon dynamic demand model for new cars in the United Kingdom, Germany, and France, and a finite-horizon dynamic labor supply model for taxi drivers in New York City. In the car application, perturbed price elasticities deviate by at most 10.18% from the reference elasticities, while perturbed estimates of consumer surplus from an additional $3,000 electric vehicle subsidy vary by up to 87.96%. In the labor supply application, the perturbed Frisch labor supply elasticity deviates by at most 76.83% for weekday drivers and 42.84% for weekend drivers.
+      Distributional assumptions that discipline serially correlated latent variables play a central role in dynamic structural models. We propose a framework to quantify the sensitivity of scalar parameters of interest (e.g., welfare, elasticity) to such distributional assumptions. We derive bounds on the scalar parameter by perturbing a reference distribution, while imposing a stationarity condition for time-homogeneous models or a Markovian condition for time-inhomogeneous models. The bounds are the solutions to optimization problems, for which we derive a computationally tractable dual formulation. We establish consistency, convergence rate, and asymptotic distribution for the estimator of the bounds. We demonstrate the approach with two applications: an infinite-horizon dynamic demand model for new cars in the United Kingdom, Germany, and France, and a finite-horizon dynamic labor supply model for taxi drivers in New York City. In the car application, perturbed price elasticities deviate by at most 15.24% from the reference elasticities, while perturbed estimates of consumer surplus from an additional $3,000 electric vehicle subsidy vary by up to 102.75%. In the labor supply application, the perturbed Frisch labor supply elasticity deviates by at most 76.83% for weekday drivers and 42.84% for weekend drivers.
 
 - title: "Model-Adaptive Approach to Dynamic Discrete Choice Models with Large State Spaces"
   pdflink: "https://arxiv.org/abs/2501.18746"
-  # coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  # book: "Revised and Resubmitted, Econometrica"
   note: "Current Version: June 2025"
-  # links:
-  #   - url: "https://arxiv.org/abs/2501.18746"
-      # text: "Pre-Registration"
   abstract: >
       Estimation and counterfactual experiments in dynamic discrete choice models with large state spaces pose computational difficulties. This paper develops a novel model-adaptive approach to solve the linear system of fixed point equations of the policy valuation operator. We propose a model-adaptive sieve space, constructed by iteratively augmenting the space with the residual from the previous iteration. We show both theoretically and numerically that model-adaptive sieves dramatically improve performance. In particular, the approximation error decays at a superlinear rate in the sieve dimension, unlike a linear rate achieved using conventional methods. Our method works for both conditional choice probability estimators and full-solution estimators with policy iteration. We apply the method to analyze consumer demand for laundry detergent using Kantar's Worldpanel Take Home data. On average, our method is 51.5% faster than conventional methods in solving the dynamic programming problem, making the Bayesian MCMC estimator computationally feasible.
 
