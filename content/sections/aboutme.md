@@ -1,6 +1,6 @@
 Welcome! I am a Ph.D. candidate in the Department of Economics at University College London. 
 
-I work on structural econometrics, empirical industrial organization, and computational economics.
+I work on econometrics, empirical industrial organization, and computational economics.
 
 I will be on the 2025-26 job market.
 
