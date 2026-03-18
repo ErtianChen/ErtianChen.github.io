@@ -8,7 +8,7 @@ works:
 
 - title: "Model-Adaptive Approach to Dynamic Discrete Choice Models with Large State Spaces"
   pdflink: "https://arxiv.org/abs/2501.18746"
-  note: "Current Version: June 2025"
+  note: "Current Version: March 2026"
 #   abstract: >
 #       Estimation and counterfactual experiments in dynamic discrete choice models with large state spaces pose computational difficulties. This paper develops a novel model-adaptive approach to solve the linear system of fixed point equations of the policy valuation operator. We propose a model-adaptive sieve space, constructed by iteratively augmenting the space with the residual from the previous iteration. We show both theoretically and numerically that model-adaptive sieves dramatically improve performance. In particular, the approximation error decays at a superlinear rate in the sieve dimension, unlike a linear rate achieved using conventional methods. Our method works for both conditional choice probability estimators and full-solution estimators with policy iteration. We apply the method to analyze consumer demand for laundry detergent using Kantar's Worldpanel Take Home data. On average, our method is 51.5% faster than conventional methods in solving the dynamic programming problem, making the Bayesian MCMC estimator computationally feasible.
 
