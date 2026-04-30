@@ -1,4 +1,4 @@
-<h3 style="margin:20px 0 5px;">{{ with .context.pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .context.title }}{{ with .context.pdflink }}</a>{{ end }}</h3>
+<h3 class="publication-title{{ with .titleClass }} {{ . }}{{ end }}" style="margin:20px 0 5px;">{{ with .context.pdflink }}<a href="{{ . }}" target="blank">{{ end }}{{ .context.title }}{{ with .context.pdflink }}</a>{{ end }}</h3>
 
 {{ with .context.coauthors }}<p style="margin:0 0 5px;">(with {{ . }})</p>{{ end }}
 
@@ -12,4 +12,3 @@
 <p style="margin:0 0 5px;"><a href="{{ .url }}" target="blank">{{ .text }}</a>{{ with .note }}: {{ . }}{{ end }}</li>
 {{ end }}
 {{ end }}
-

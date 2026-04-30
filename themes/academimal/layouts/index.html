@@ -34,10 +34,10 @@
 
 {{ with .Site.Data.working_papers }}
 <hr>
-<h2 id="workingpapers">Working Papers</h2>
+<h2 id="workingpapers" class="paper-section-heading">Working Papers</h2>
 {{ range . }}
 {{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt") "titleClass" "paper-title-small") }}
 {{ $scratch.Add "pubcnt" 1 }}   
 {{ end }}
 {{ end }}
@@ -45,10 +45,10 @@
 
 {{ with .Site.Data.work_in_progress }}
 <hr>
-<h2 id="workinprogress">Work in Progress</h2>
+<h2 id="workinprogress" class="paper-section-heading">Work in Progress</h2>
 {{ range . }}
 {{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt") "titleClass" "paper-title-small") }}
 {{ $scratch.Add "pubcnt" 1 }}   
 {{ end }}
 {{ end }}
