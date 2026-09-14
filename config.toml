@@ -7,5 +7,5 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Ph.D. candidate in Economics <br> University College London <br> Email: <a href='mailto:ertianchen@gmail.com'>ertianchen@gmail.com</a>"
+    shortbio = "Assistant Professor of Economics <br> Xiamen University <br> Email: <a href='mailto:ertianchen@gmail.com'>ertianchen@gmail.com</a>"
     logo = "Ertian_Chen.jpeg"
